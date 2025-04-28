@@ -13,6 +13,8 @@ Shield-Auth is a command-line tool that provides a secure two-factor authenticat
 - **Audible OTP:** Speaks the OTP aloud for accessibility.
 - **Interactive CLI:** Prompts the user to display emergency backup codes only when needed.
 
+![image](https://github.com/MasterSayantan/Shield-Auth/blob/main/test.png)  
+
 ## Installation
 
 ### Prerequisites
