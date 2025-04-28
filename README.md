@@ -49,6 +49,7 @@ You can install them using the provided `requirements.txt` file.
 4. Install the required packages:
 
    ```bash
+   git clone https://github.com/MasterSayantan/Shield-Auth.git
    pip install -r requirements.txt
    ```
 
