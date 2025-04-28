@@ -1,0 +1,18 @@
+2025-04-28 14:58:03,290 - INFO - Special 2FA Generator started
+2025-04-28 14:58:03,291 - INFO - Machine ID hash: d7e7a16319bec240881d1c5587a6f73be0ca35a7c3274360bf1ea4ab7698e9da
+2025-04-28 14:58:04,049 - INFO - User location: Kolkata, IN
+2025-04-28 14:58:29,233 - INFO - QR code generated and saved to qrcode.png
+2025-04-28 14:58:29,234 - INFO - Backup codes saved to backup_codes.json
+2025-04-28 14:58:29,234 - INFO - Generated new backup code for passphrase hash 7d1b77890874ef2df8660573a0e6843e8e6618819681f54ca8e362e9e9588bc4
+2025-04-28 14:59:16,522 - INFO - Special 2FA Generator finished by user interrupt.
+2025-04-28 14:59:42,925 - INFO - Special 2FA Generator started
+2025-04-28 14:59:42,925 - INFO - Machine ID hash: d7e7a16319bec240881d1c5587a6f73be0ca35a7c3274360bf1ea4ab7698e9da
+2025-04-28 14:59:43,560 - INFO - User location: Kolkata, IN
+2025-04-28 14:59:48,379 - INFO - QR code generated and saved to qrcode.png
+2025-04-28 14:59:48,388 - INFO - Backup codes saved to backup_codes.json
+2025-04-28 14:59:48,388 - INFO - Generated new backup code for passphrase hash 1081c4de2c73c1ef1e98d45a68ffe17f442239153f09e86bb49eec18461d5405
+2025-04-28 14:59:48,814 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\sayan\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-28 14:59:48,814 - INFO - Using writeable comtypes cache directory: 'C:\Users\sayan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\comtypes\gen'
+2025-04-28 14:59:52,901 - INFO - Spoken OTP aloud
+2025-04-28 15:00:31,980 - INFO - Spoken OTP aloud
+2025-04-28 15:00:32,159 - INFO - Special 2FA Generator finished by user interrupt.
