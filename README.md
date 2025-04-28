@@ -54,13 +54,13 @@ You can install them using the provided `requirements.txt` file.
    pip install -r requirements.txt
    ```
 
-5. Run the Special 2FA Generator:
+5. Run the Shield-Auth:
 
    ```bash
    python3 ShieldAuth.py --speak
-
+   ```
    if you use linux system then- 
-
+   ```bash
    python3 ShieldAuth.py --no-speak
    ```
 
