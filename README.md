@@ -50,6 +50,7 @@ You can install them using the provided `requirements.txt` file.
 
    ```bash
    git clone https://github.com/MasterSayantan/Shield-Auth.git
+   cd Shield-Auth
    pip install -r requirements.txt
    ```
 
