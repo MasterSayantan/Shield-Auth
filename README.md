@@ -1,4 +1,4 @@
-# ShieldA-uth
+# Shield-Auth
 
 Shield-Auth is a command-line tool that provides a secure two-factor authentication (2FA) solution with enhanced features such as device fingerprinting, location verification, emergency backup codes, and audible OTP announcements.
 
