@@ -2,3 +2,4 @@ pyotp
 pyttsx3
 qrcode
 requests
+pillow
